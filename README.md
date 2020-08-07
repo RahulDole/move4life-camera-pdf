@@ -1,4 +1,4 @@
-# flutter_pdf_app
+# move4life-camera-pdf
 
 A Flutter application to create a PDF using images captured from camera
 
